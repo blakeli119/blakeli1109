@@ -10,10 +10,10 @@ class MyHashSet:
         self.data = [None] * capacity
        
     def add(self, key):
-        return pass
+        pass
     
     def remove(self, key):
-        return pass
+        pass
 
     def contains(self, key):
-        return pass
+        pass
