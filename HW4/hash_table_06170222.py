@@ -11,7 +11,9 @@ class MyHashSet:
        
     def add(self, key):
         return pass
+    
     def remove(self, key):
         return pass
+
     def contains(self, key):
         return pass
