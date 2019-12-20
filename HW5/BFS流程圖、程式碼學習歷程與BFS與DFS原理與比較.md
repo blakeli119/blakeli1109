@@ -17,3 +17,5 @@ BFS將數字照順序擺放上去，利用QUEUE序列，把adjacency的數字照
 
 # 參考資料:
 https://github.com/blakeli119/blakeli1109
+https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/102866/
+https://www.itread01.com/content/1541297601.html
