@@ -43,10 +43,14 @@
 #### [README.md](https://github.com/blakeli119/blakeli1109/blob/master/HW6/README.md)
 
 # 自主練習
-* Leetcode
-
-
-
+## Leetcode
+## [CS50](https://github.com/blakeli119/blakeli1109/tree/master/CS50)
+#### [week3](https://github.com/blakeli119/blakeli1109/blob/master/CS50/week3.md)
+#### [week4](https://github.com/blakeli119/blakeli1109/blob/master/CS50/week4.md)
+#### [week5](https://github.com/blakeli119/blakeli1109/blob/master/CS50/week5.md)
+#### [week7](https://github.com/blakeli119/blakeli1109/blob/master/CS50/week7.md)
+#### [week8](https://github.com/blakeli119/blakeli1109/blob/master/CS50/week8.md)
+#### [README](https://github.com/blakeli119/blakeli1109/blob/master/CS50/README.md)
 
 
 
