@@ -43,7 +43,7 @@
 #### [README.md](https://github.com/blakeli119/blakeli1109/blob/master/HW6/README.md)
 
 # 課堂筆記
-##　[classnote](https://github.com/blakeli119/blakeli1109/tree/master/classnote)
+## classnote](https://github.com/blakeli119/blakeli1109/tree/master/classnote)
 
 # 自主練習
 ## Leetcode
