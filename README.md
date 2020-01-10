@@ -57,7 +57,6 @@
 ## week6
 [Heap Sort]
 ## week7
-[Merge Sort]
 [HW2](https://github.com/blakeli119/blakeli1109/tree/master/HW2)
 ## week8
 [Binart Tree]
