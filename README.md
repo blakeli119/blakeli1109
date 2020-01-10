@@ -52,37 +52,37 @@
 
 # 課程進度
 ## Week1
-[github]
+[Github](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Github.md)
 ## Week2
-[linked-List]
+[linked-List](https://github.com/blakeli119/blakeli1109/blob/master/classnote/linked-List.md)
 ## Week3
-[Stack & Queue]
+[Stack & Queue](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Stack%20%26%20Queue.md)
 ## Week4
-[Set]
-[Insertion Sort]
+[Set](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Set.md)
+[Insertion Sort](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Insertion%20Sort.md)
 ## week5
 [HW1](https://github.com/blakeli119/blakeli1109/tree/master/HW1)
 ## week6
-[Heap Sort]
+[Heap Sort](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Heap%20Sort.md)
 ## week7
 [HW2](https://github.com/blakeli119/blakeli1109/tree/master/HW2)
 ## week8
-[Binart Tree]
+[Binary Tree](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Binary%20Tree.md)
 ## week9
 [HW3](https://github.com/blakeli119/blakeli1109/tree/master/HW3)
 ## week10
-[Binary Search Tree]
-[Red Black Tree]
+[Binary Search Tree](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Binary%20Search%20Tree.md)
+[Red Black Tree](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Red%20Black%20Tree.md)
 ## week11
 [HW4](https://github.com/blakeli119/blakeli1109/tree/master/HW4)
 ## week12
-[Breadth-First Search]
+[Breadth-First Search](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Breadth-First%20Search.md)
 ## week13
 [HW5](https://github.com/blakeli119/blakeli1109/tree/master/HW5)
 ## week14
-[Minimum Spanning Tree - Kruskal]
+[Minimum Spanning Tree - Kruskal](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Minimum%20Spanning%20Tree%20-%20Kruskal.md)
 ## week15
-[Shortest Path - Dijkstra]
+[Shortest Path - Dijkstra](https://github.com/blakeli119/blakeli1109/blob/master/classnote/Shortest%20Path%20-%20Dijkstra)
 ## week16
 [HW6](https://github.com/blakeli119/blakeli1109/tree/master/HW6)
 ## week17
