@@ -11,7 +11,7 @@
 # 課堂作業
 ## [HW1](https://github.com/blakeli119/blakeli1109/tree/master/HW1)
 #### [quicksort.ipynb](https://github.com/blakeli119/blakeli1109/blob/master/HW1/quicksort.ipynb)
-#### [readme.md](https://github.com/blakeli119/blakeli1109/blob/master/HW1/readme.md)
+#### [README.md](https://github.com/blakeli119/blakeli1109/blob/master/HW1/README.md)
 ## [HW2](https://github.com/blakeli119/blakeli1109/tree/master/HW2)
 #### [heap_sort程式碼](https://github.com/blakeli119/blakeli1109/blob/master/HW2/heap_sort_06170222.py)
 #### [merge_sort程式碼](https://github.com/blakeli119/blakeli1109/blob/master/HW2/merge_sort_06170222.py)
