@@ -36,8 +36,7 @@
 #### [BFS程式碼](https://github.com/blakeli119/blakeli1109/blob/master/HW5/BFS_06170222.py)
 #### [BFS學習歷程](https://github.com/blakeli119/blakeli1109/blob/master/HW5/BFS%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BFS%E8%88%87DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
 #### [README.md](https://github.com/blakeli119/blakeli1109/blob/master/HW5/README.md)
-
-
+７
 ## [HW6](https://github.com/blakeli119/blakeli1109/tree/master/HW6)
 #### [Dijkstra程式碼](https://github.com/blakeli119/blakeli1109/blob/master/HW6/Dijkstra_06170222.py)
 #### [Dijkstra學習歷程](https://github.com/blakeli119/blakeli1109/blob/master/HW6/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md)
@@ -48,7 +47,20 @@
 ## Week2
 ## Week3
 ## Week4
-
+## week5
+## week6
+## week7
+## week8
+## week9
+## week10
+## week11
+## week12
+## week13
+## week14
+## week15
+## week16
+## week17
+## week18
 
 
 # 課程心得:
