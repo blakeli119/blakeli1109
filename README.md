@@ -9,10 +9,10 @@
 * 血型:O
 
 # 課堂作業
-## HW1
+## [HW1](https://github.com/blakeli119/blakeli1109/tree/master/HW1)
 #### [quicksort.ipynb](https://github.com/blakeli119/blakeli1109/blob/master/HW1/quicksort.ipynb)
 #### [readme.md](https://github.com/blakeli119/blakeli1109/blob/master/HW1/readme.md)
-## HW2
+## [HW2](https://github.com/blakeli119/blakeli1109/tree/master/HW2)
 #### [heap_sort程式碼](https://github.com/blakeli119/blakeli1109/blob/master/HW2/heap_sort_06170222.py)
 #### [merge_sort程式碼](https://github.com/blakeli119/blakeli1109/blob/master/HW2/merge_sort_06170222.py)
 #### [Heapsort學習歷程](https://github.com/blakeli119/blakeli1109/blob/master/HW2/Heapsort%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md)
@@ -20,9 +20,10 @@
 #### [Merge,Heap比較](https://github.com/blakeli119/blakeli1109/blob/master/HW2/%E6%AF%94%E8%BC%83.md)
 
 
-## HW3
-
-
+## [HW3](https://github.com/blakeli119/blakeli1109/tree/master/HW3)
+#### [BST程式碼](https://github.com/blakeli119/blakeli1109/blob/master/HW3/binary_search_tree_06170222.py)
+#### [BST功能說明](https://github.com/blakeli119/blakeli1109/blob/master/HW3/BST%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md)
+#### [BST學習歷程](https://github.com/blakeli119/blakeli1109/blob/master/HW3/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md)
 
 ## HW4
 
