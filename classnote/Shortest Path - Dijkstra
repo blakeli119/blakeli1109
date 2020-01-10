@@ -1,0 +1,3 @@
+# Shortest Path - Dijkstra
+## 原理
+Dijkstra 演算法他會先定義一個 `起始點` ，他的目的是在一個 graph 裡找到 `起始點` 到所有節點的最短路徑。
