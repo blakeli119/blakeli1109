@@ -1,4 +1,5 @@
 # Welcome to BlakeLi learnig note
+> 讓我帶你進入先磊的演算法世界
 # 自我介紹
 > 巨資3B 06170222
 * 本名:黎先磊
@@ -41,6 +42,15 @@
 #### [Dijkstra程式碼](https://github.com/blakeli119/blakeli1109/blob/master/HW6/Dijkstra_06170222.py)
 #### [Dijkstra學習歷程](https://github.com/blakeli119/blakeli1109/blob/master/HW6/%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md)
 #### [README.md](https://github.com/blakeli119/blakeli1109/blob/master/HW6/README.md)
+
+# 課程進度
+## Week1
+## Week2
+## Week3
+## Week4
+
+
+
 # 課程心得:
 其實一開始的時候我蠻排斥這堂課的。只是經過了一段時間，身邊的朋友都沒有放棄，所以我也決定繼續撐下去。
 雖然我寫程式的能力依然很爛，但我還是很努力地想了解這堂課在教的東西，期末考也很認真地讀。
