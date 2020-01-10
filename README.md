@@ -44,24 +44,41 @@
 
 # 課程進度
 ## Week1
-## Week2
-## Week3
-## Week4
-## week5
-## week6
-## week7
-## week8
-## week9
-## week10
-## week11
-## week12
-## week13
-## week14
-## week15
-## week16
-## week17
-## week18
 
+## Week2
+
+## Week3
+
+## Week4
+
+## week5
+
+## week6
+
+## week7
+
+## week8
+
+## week9
+
+## week10
+
+## week11
+
+## week12
+
+## week13
+
+## week14
+
+## week15
+
+## week16
+
+## week17
+期末考
+## week18
+停課
 
 # 課程心得:
 其實一開始的時候我蠻排斥這堂課的。只是經過了一段時間，身邊的朋友都沒有放棄，所以我也決定繼續撐下去。
