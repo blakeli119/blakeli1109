@@ -34,7 +34,7 @@
 
 ## [HW5](https://github.com/blakeli119/blakeli1109/tree/master/HW5)
 #### [BFS程式碼](https://github.com/blakeli119/blakeli1109/blob/master/HW5/BFS_06170222.py)
-#### [BFS學習歷程](https://github.com/blakeli119/blakeli1109/blob/master/HW5/BFS%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BFS%E8%88%87DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
+#### [BFS學習歷程](https://github.coSame Treem/blakeli119/blakeli1109/blob/master/HW5/BFS%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BFS%E8%88%87DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md)
 #### [README.md](https://github.com/blakeli119/blakeli1109/blob/master/HW5/README.md)
 
 ## [HW6](https://github.com/blakeli119/blakeli1109/tree/master/HW6)
@@ -46,7 +46,15 @@
 ## [classnote](https://github.com/blakeli119/blakeli1109/tree/master/classnote)
 
 # 自主練習
-## Leetcode
+## [Leetcode](https://github.com/blakeli119/blakeli1109/tree/master/Leetcode)
+#### [Min Stack](https://github.com/blakeli119/blakeli1109/blob/master/Leetcode/155_Min%20Stack_06170222.py)
+#### [Implement Queue using Stacks](https://github.com/blakeli119/blakeli1109/blob/master/Leetcode/232_Implement%20Queue%20using%20Stacks_06170222.py)
+#### [Two Sum](https://github.com/blakeli119/blakeli1109/blob/master/Leetcode/1_Two%20Sum_06170222.py)
+#### [Same Tree](https://github.com/blakeli119/blakeli1109/blob/master/Leetcode/100_Same%20Tree_06170222.py)
+#### [Design Linked List](https://github.com/blakeli119/blakeli1109/blob/master/Leetcode/707_Design%20Linked%20List_06170222.py)
+#### [README](https://github.com/blakeli119/blakeli1109/blob/master/Leetcode/README.md)
+
+
 ## [CS50](https://github.com/blakeli119/blakeli1109/tree/master/CS50)
 #### [week3](https://github.com/blakeli119/blakeli1109/blob/master/CS50/week3.md)
 #### [week4](https://github.com/blakeli119/blakeli1109/blob/master/CS50/week4.md)
